@@ -1,4 +1,4 @@
-# Polynomial-Multiplication
+# Polynomial Multiplication
 This program which only uses iostream library, gets two polynomials as input and keeps each of them in a separate linked list. Then, calculates the product of the two in an individual linked list and print it in the output.  
 
 Input:  
